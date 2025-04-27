@@ -593,7 +593,7 @@ Scheme
 			"1"
 			{
 				"name"										"Catamaran SemiBold"
-				"tall"										"80"
+				"tall"										"56"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -603,7 +603,7 @@ Scheme
 			"1"
 			{
 				"name"										"Catamaran SemiBold"
-				"tall"										"80"
+				"tall"										"56"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
